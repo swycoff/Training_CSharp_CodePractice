@@ -1,0 +1,1 @@
+﻿This is a file we can use to read files and count words and characters.
